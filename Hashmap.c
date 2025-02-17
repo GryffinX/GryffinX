@@ -38,6 +38,7 @@ void resizeHashmap(Hashmap *map) {
             bucket *next=current->next;
             current->next=newTable[newIndex]; // sets the next pointer of the current bucket to point to the head of the existing entries(if any) at the newIndex in the new table
             newTable[newIndex]=current; // sets the current bucket as the head of the linked list at "newIndex" in the new table
+            current=next;
         }
     }
     free(map->table);
