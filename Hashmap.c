@@ -35,9 +35,10 @@ void resizeHashmap(Hashmap *map) {
         bucket *current=map->table[i];
         while (current!=NULL) {
             uint newIndex=hash(current->key,newSize);
-            bucket *next=current->next;
+            bucket *next=current->next; //stores the next node 
             current->next=newTable[newIndex]; // sets the next pointer of the current bucket to point to the head of the existing entries(if any) at the newIndex in the new table
             newTable[newIndex]=current; // sets the current bucket as the head of the linked list at "newIndex" in the new table
+            current=next;
         }
     }
     free(map->table);
@@ -119,7 +120,7 @@ int retrieve(Hashmap *map, const char *key) {
 
 Hashmap* generateHashmap() {
     Hashmap *map=malloc(sizeof(Hashmap));
-    map->table=calloc(INITIAL_SIZE,sizeof(bucket*));
+    map->table=calloc(INITIAL_SIZE,sizeof(bucket*)); //initializes all buckets as NULL in the hashmap
     map->count=0;
     map->size=INITIAL_SIZE;
     return map;
