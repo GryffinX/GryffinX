@@ -30,7 +30,7 @@ uint hash(const char*key, int size) {
 
 void resizeHashmap(Hashmap *map) {
     int newSize= map->size*2;
-    bucket **newTable=calloc(newSize, sizeof(bucket*));
+    bucket **newTable=(bucket**)calloc(newSize, sizeof(bucket*));
     for (int i=0; i<map->size; ++i) {
         bucket *current=map->table[i];
         while (current!=NULL) {
@@ -50,7 +50,7 @@ void insert(Hashmap *map, const char *key, int value) {
     if ((float)(map->count+1)/map->size>LOAD_FACTOR) {
         resizeHashmap(map);
     }
-    bucket *newEntry=malloc(sizeof(bucket));
+    bucket *newEntry=(bucket*)malloc(sizeof(bucket));
     newEntry->key=strdup(key);
     newEntry->val=value;
     newEntry->next=NULL;
@@ -119,8 +119,8 @@ int retrieve(Hashmap *map, const char *key) {
 }
 
 Hashmap* generateHashmap() {
-    Hashmap *map=malloc(sizeof(Hashmap));
-    map->table=calloc(INITIAL_SIZE,sizeof(bucket*)); //initializes all buckets as NULL in the hashmap
+    Hashmap *map=(Hashmap*)malloc(sizeof(Hashmap));
+    map->table=(bucket**)calloc(INITIAL_SIZE,sizeof(bucket*)); //initializes all buckets as NULL in the hashmap
     map->count=0;
     map->size=INITIAL_SIZE;
     return map;
