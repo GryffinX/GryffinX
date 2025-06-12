@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Gupta aka GryffinX</h1>
+<h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
 <h3 align="center">Passionate About Code, Collaboration, and Growth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gryffinx&label=Profile%20views&color=0e75b6&style=flat" alt="gryffinx" /> </p>
