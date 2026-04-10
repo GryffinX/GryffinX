@@ -62,7 +62,7 @@ Hash-linked ledger provides tamper-proof audit trails. Backend complete.
 
 ---
 
-### [OpenEscrow](https://github.com/GryffinX/OpenEscrow) · [Live](https://openescrowclient.vercel.app/)
+### [OpenEscrow](https://github.com/GryffinX/OpenEscrow)
 Trustless milestone-based escrow on Shardeum EVM. Uses confidential
 compute (Inco) to protect sensitive business data on-chain.
 Built at **DeFy'26 Hackathon**.
