@@ -17,7 +17,7 @@
 
 Full-stack engineer with hands-on experience shipping production systems across
 insurance tech, carbon markets, and Web3. I've interned at CampusMantri (via GFG),
-built 5 hackathon projects, and hold IEEE membership.
+built 5 hackathon projects.
 
 My focus: **clean architecture**, **real deployments**, and systems that
 solve actual problems — not tutorial clones.
