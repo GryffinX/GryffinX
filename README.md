@@ -1,20 +1,82 @@
-<h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
-<h3 align="center">Passionate About Code, Collaboration, and Growth</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gryffinx&label=Profile%20views&color=0e75b6&style=flat" alt="gryffinx" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayush-gupta-2k07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-gupta-2k07" height="30" width="40" /></a>
-<a href="https://instagram.com/_simply.ayush_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_simply.ayush_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gryffinx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gryffinx" height="30" width="40" /></a>
+<h1>Ayush Gupta</h1>
+<p><strong>Full Stack Engineer</strong> · Building systems end-to-end, from APIs to interfaces</p>
+<p>
+  <a href="https://linkedin.com/in/ayush-gupta-2k07">LinkedIn</a> ·
+  <a href="https://leetcode.com/gryffinx">LeetCode</a> ·
+  <a href="mailto:YOUR_EMAIL_HERE">Email</a>
+</p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=gryffinx&label=Profile+views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gryffinx&show_icons=true&locale=en&layout=compact" alt="gryffinx" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gryffinx&show_icons=true&locale=en" alt="gryffinx" /></p>
+Full-stack engineer with hands-on experience shipping production systems across
+insurance tech, carbon markets, and Web3. I've interned at CampusMantri (via GFG),
+built 5 hackathon projects, and hold IEEE membership.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gryffinx&" alt="gryffinx" /></p>
+My focus: **clean architecture**, **real deployments**, and systems that
+solve actual problems — not tutorial clones.
+
+Currently deepening: system design at scale, backend performance, and
+cross-chain application primitives.
+
+---
+
+## Stack
+
+| Layer | Tools |
+|---|---|
+| **Frontend** | React, SvelteKit, Tailwind CSS, Three.js, Framer Motion |
+| **Backend** | Django · DRF · FastAPI · Node.js · Express |
+| **Databases** | PostgreSQL · MongoDB · MySQL · Redis |
+| **DevOps** | Docker · Git · Postman |
+| **Deploy** | Vercel · Render |
+| **Also familiar** | Python · JavaScript · Solidity · C/C++ |
+
+---
+
+## Featured Projects
+
+### [InsuraFlow](https://github.com/GryffinX/InsuraFlow) · [Live](https://insura-flow-virid.vercel.app)
+End-to-end insurance management — policy lifecycle, claims processing,
+and multi-role (admin/agent/client) workflows in a unified platform.
+`Django` `DRF` `PostgreSQL` `Redis` `SvelteKit` `Tailwind` `Docker`
+
+---
+
+### [ProjectHub](https://github.com/GryffinX/Project_Sharing) · [Live](https://project-sharing-nine.vercel.app)
+Developer platform to showcase and discover technical projects.
+Features 3D visuals, full CRUD, auth, and search — built as a real product.
+`React` `Node.js` `Express` `MongoDB` `Three.js` `Framer Motion`
+
+---
+
+### [CarbonCred](https://github.com/GryffinX/CarbonCred)
+AI-assisted carbon credit verification and trading for SMEs.
+Hash-linked ledger provides tamper-proof audit trails. Backend complete.
+`Django` `DRF` `PostgreSQL` `JWT` `AI verification layer`
+
+---
+
+### [OpenEscrow](https://github.com/GryffinX/OpenEscrow) · [Live](https://openescrowclient.vercel.app/)
+Trustless milestone-based escrow on Shardeum EVM. Uses confidential
+compute (Inco) to protect sensitive business data on-chain.
+Built at **DeFy'26 Hackathon**.
+`Solidity` `React` `ethers.js` `Shardeum` `Inco`
+
+---
+
+
+## GitHub Activity
+
+![Stats](https://github-readme-stats.vercel.app/api?username=gryffinx&show_icons=true&hide_border=true&count_private=true&theme=default)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gryffinx&hide_border=true)
+
+---
+
+<p align="center">Open to full-stack and backend roles</p>
