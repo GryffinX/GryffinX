@@ -35,7 +35,7 @@ cross-chain application primitives.
 | **Databases** | PostgreSQL · MongoDB · MySQL · Redis |
 | **DevOps** | Docker · Git · Postman |
 | **Deploy** | Vercel · Render |
-| **Also familiar** | Python · JavaScript · Solidity · C/C++ |
+| **Also familiar** | Java · Solidity · C/C++ |
 
 ---
 
