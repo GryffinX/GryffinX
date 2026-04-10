@@ -5,7 +5,7 @@
 <p>
   <a href="https://linkedin.com/in/ayush-gupta-2k07">LinkedIn</a> ·
   <a href="https://leetcode.com/gryffinx">LeetCode</a> ·
-  <a href="mailto:YOUR_EMAIL_HERE">Email</a>
+  <a href="mailto:g.ayush2k07@gmail.com">Email</a>
 </p>
 <p>
   <img src="https://komarev.com/ghpvc/?username=gryffinx&label=Profile+views&color=0e75b6&style=flat" />
