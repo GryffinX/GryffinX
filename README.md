@@ -32,7 +32,7 @@ cross-chain application primitives.
 |---|---|
 | **Frontend** | React, SvelteKit, Tailwind CSS, Three.js, Framer Motion |
 | **Backend** | Django · DRF · FastAPI · Node.js · Express |
-| **Databases** | PostgreSQL · MongoDB · MySQL · Redis |
+| **Databases** | PostgreSQL · MongoDB · MySQL · Redis · MSSQL |
 | **DevOps** | Docker · Git · Postman |
 | **Deploy** | Vercel · Render |
 | **Also familiar** | Java · Solidity · C/C++ |
